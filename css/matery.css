@@ -166,7 +166,7 @@ mark {
 }
 
 .text-color {
-    color: #0f9d58 !important;
+    color: #54c9b7 !important;
 }
 
 /*头部导航栏样式*/
@@ -189,7 +189,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #54c9b7 0%, #0f9d58 100%);
+    background: linear-gradient(to right, #54c9b7 0%, #54c9b7 100%);
     opacity: 0.8;
 }
 
@@ -1084,7 +1084,7 @@ table tr:nth-child(2n), thead {
     left: 18px;
     height: 100%;
     width: 4px;
-    background: #0f9d58;
+    background: #54c9b7;
 }
 
 @media only screen and (min-width: 900px) {
@@ -1320,7 +1320,7 @@ table tr:nth-child(2n), thead {
     margin: 0 0.5rem;
     padding: 0;
     color: #fff;
-    border: 1px solid #0f9d58;
+    border: 1px solid #54c9b7;
     background: radial-gradient(#54c9b7, #54c9b7);;
     font-size: 0.9rem;
     border-radius: 50%;
