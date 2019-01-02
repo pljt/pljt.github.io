@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2018/12/29/hello-world/"/>
-      <url>/2018/12/29/hello-world/</url>
+      <title>欢迎大家来到霹雳科技博客</title>
+      <link href="/2019/01/02/huan-ying-da-jia-lai-dao-pi-li-ke-ji-bo-ke/"/>
+      <url>/2019/01/02/huan-ying-da-jia-lai-dao-pi-li-ke-ji-bo-ke/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一个博客</title>
-      <link href="/2018/09/07/di-yi-ge-bo-ke/"/>
-      <url>/2018/09/07/di-yi-ge-bo-ke/</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>#一、我的简介<br>我是一个刚刚本科毕业的学生，生活的压力很大，但是阻挡不了我的学习步伐，遵守着活到老学到老的观念，我一直在学习。我比较喜欢网络安全知识，今后我会发布一些互联网安全的知识，提到互联网安全的学习，其实它包含的领域有很多，包括电脑基础知识、数据库、计算机语言等知识。<br>要想学好网络安全，要学的东西很多但是时间有限，我们要一点一点的去学习。今后我会在我的博客中分享我的学习经历及经验，希望与你们能够一起学习一起进步。</p><p>#二、我的计划<br>1.计算机基础知识<br>包括windows基础知识，系统安装，系统封装，windows系统开机密码破解，日常软件的破解安装，工作软件的破解安装，RAMOS-win7系统的安装等基础知识。<br>2.网络安全基础知识<br>包括虚拟机知识，packetracer gns3，git等知识。<br>3.语言部知识<br>包括Java语言，Python，易语言，HTML5，js JavaScript等。<br>4.数据库知识<br>主要是MySQL知识</p><p>#三、资料下载<br>请关注微信公众号：霹雳科技；<br>QQ群：霹雳科技（524928331），</p>]]></content>
       
       
       <categories>
@@ -33,11 +20,24 @@
       
         <tags>
             
-            <tag> Typora </tag>
-            
             <tag> Markdown </tag>
             
+            <tag> 日常 </tag>
+            
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/12/29/hello-world/"/>
+      <url>/2018/12/29/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
       
     </entry>
     
