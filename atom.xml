@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pljt.github.io/"/>
-  <updated>2019-01-02T15:23:43.217Z</updated>
+  <updated>2019-01-02T15:27:41.439Z</updated>
   <id>https://pljt.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://pljt.github.io/2019/01/02/huan-ying-da-jia-lai-dao-pi-li-ke-ji-bo-ke/"/>
     <id>https://pljt.github.io/2019/01/02/huan-ying-da-jia-lai-dao-pi-li-ke-ji-bo-ke/</id>
     <published>2019-01-02T14:46:00.000Z</published>
-    <updated>2019-01-02T15:23:43.217Z</updated>
+    <updated>2019-01-02T15:27:41.439Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;#一、我的简介&lt;br&gt;我是一个刚刚本科毕业的学生，生活的压力很大，但是阻挡不了我的学习步伐，遵守着活到老学到老的观念，我一直在学习。我比较喜欢网络安全知识，今后我会发布一些互联网安全的知识，提到互联网安全的学习，其实它包含的领域有很多，包括电脑基础知识、数据库、计算机语言等
+          &lt;h1 id=&quot;一、我的简介&quot;&gt;&lt;a href=&quot;#一、我的简介&quot; class=&quot;headerlink&quot;
         
       
     
@@ -38,9 +38,9 @@
       <category term="Markdown" scheme="https://pljt.github.io/categories/Markdown/"/>
     
     
-      <category term="Markdown" scheme="https://pljt.github.io/tags/Markdown/"/>
-    
       <category term="日常" scheme="https://pljt.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="Markdown" scheme="https://pljt.github.io/tags/Markdown/"/>
     
   </entry>
   
