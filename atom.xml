@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pljt.github.io/"/>
-  <updated>2019-01-04T01:26:58.749Z</updated>
+  <updated>2019-01-04T05:35:41.237Z</updated>
   <id>https://pljt.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://pljt.github.io/2019/01/04/wei-xin-xiao-cheng-xu-jiao-cheng-di-si-ke-kai-fa-gong-ju-de-shi-yong/"/>
     <id>https://pljt.github.io/2019/01/04/wei-xin-xiao-cheng-xu-jiao-cheng-di-si-ke-kai-fa-gong-ju-de-shi-yong/</id>
     <published>2019-01-04T01:22:00.000Z</published>
-    <updated>2019-01-04T01:26:58.749Z</updated>
+    <updated>2019-01-04T05:35:41.237Z</updated>
     
     <summary type="html">
     
@@ -73,11 +73,11 @@
   </entry>
   
   <entry>
-    <title>微信小程序教程-第二课-简介</title>
-    <link href="https://pljt.github.io/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-er-ke-xiao-cheng-xu-jian-jie/"/>
-    <id>https://pljt.github.io/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-er-ke-xiao-cheng-xu-jian-jie/</id>
+    <title>微信小程序教程-第三课-开发准备</title>
+    <link href="https://pljt.github.io/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-san-ke-kai-fa-zhun-bei/"/>
+    <id>https://pljt.github.io/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-san-ke-kai-fa-zhun-bei/</id>
     <published>2019-01-03T12:32:00.000Z</published>
-    <updated>2019-01-03T14:12:03.895Z</updated>
+    <updated>2019-01-04T02:02:46.038Z</updated>
     
     <summary type="html">
     
@@ -85,7 +85,8 @@
       
         
         
-          &lt;h1 id=&quot;一、微信小程序简介&quot;&gt;&lt;a href=&quot;#一、微信小程序简介&quot; class=&quot;headerlink&quot; title=&quot;一、微信小程序简介&quot;&gt;&lt;/a&gt;一、微信小程序简介&lt;/h1&gt;&lt;h2 id=&quot;什么是微信小程序？&quot;&gt;&lt;a href=&quot;#什么是微信小程序？&quot;
+          &lt;p&gt;接下来是微信开发工具教程的笔记心得，并没有做过多的美化，后期会做美化，请大家见谅！&lt;/p&gt;
+&lt;h1 id=&quot;一、微信小程序开发工具&quot;&gt;&lt;a href=&quot;#一、微信小程序开发工具&quot; class=&quot;headerlink&quot;
         
       
     
@@ -101,11 +102,11 @@
   </entry>
   
   <entry>
-    <title>微信小程序教程-第三课-开发准备</title>
-    <link href="https://pljt.github.io/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-san-ke-kai-fa-zhun-bei/"/>
-    <id>https://pljt.github.io/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-san-ke-kai-fa-zhun-bei/</id>
+    <title>微信小程序教程-第二课-简介</title>
+    <link href="https://pljt.github.io/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-er-ke-xiao-cheng-xu-jian-jie/"/>
+    <id>https://pljt.github.io/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-er-ke-xiao-cheng-xu-jian-jie/</id>
     <published>2019-01-03T12:32:00.000Z</published>
-    <updated>2019-01-04T02:02:46.038Z</updated>
+    <updated>2019-01-03T14:12:03.895Z</updated>
     
     <summary type="html">
     
@@ -113,8 +114,7 @@
       
         
         
-          &lt;p&gt;接下来是微信开发工具教程的笔记心得，并没有做过多的美化，后期会做美化，请大家见谅！&lt;/p&gt;
-&lt;h1 id=&quot;一、微信小程序开发工具&quot;&gt;&lt;a href=&quot;#一、微信小程序开发工具&quot; class=&quot;headerlink&quot;
+          &lt;h1 id=&quot;一、微信小程序简介&quot;&gt;&lt;a href=&quot;#一、微信小程序简介&quot; class=&quot;headerlink&quot; title=&quot;一、微信小程序简介&quot;&gt;&lt;/a&gt;一、微信小程序简介&lt;/h1&gt;&lt;h2 id=&quot;什么是微信小程序？&quot;&gt;&lt;a href=&quot;#什么是微信小程序？&quot;
         
       
     
