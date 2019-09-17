@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Hello World</title>
+      <link href="/2019/09/17/hello-world/"/>
+      <url>/2019/09/17/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>微信小程序教程-第四课-开发工具的使用</title>
       <link href="/2019/01/04/wei-xin-xiao-cheng-xu-jiao-cheng-di-si-ke-kai-fa-gong-ju-de-shi-yong/"/>
       <url>/2019/01/04/wei-xin-xiao-cheng-xu-jiao-cheng-di-si-ke-kai-fa-gong-ju-de-shi-yong/</url>
@@ -31,11 +44,11 @@
     
     
     <entry>
-      <title>微信小程序教程-第一课-概要</title>
-      <link href="/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-yi-ke-gai-yao/"/>
-      <url>/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-yi-ke-gai-yao/</url>
+      <title>微信小程序教程-第三课-开发准备</title>
+      <link href="/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-san-ke-kai-fa-zhun-bei/"/>
+      <url>/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-san-ke-kai-fa-zhun-bei/</url>
       
-        <content type="html"><![CDATA[<h1 id="一、课程名称"><a href="#一、课程名称" class="headerlink" title="一、课程名称"></a>一、课程名称</h1><h2 id="微信小程序从基础到实战"><a href="#微信小程序从基础到实战" class="headerlink" title="微信小程序从基础到实战"></a>微信小程序从基础到实战</h2><h1 id="二、课程安排"><a href="#二、课程安排" class="headerlink" title="二、课程安排"></a>二、课程安排</h1><h2 id="快速入门"><a href="#快速入门" class="headerlink" title="快速入门"></a>快速入门</h2><h2 id="开发进阶"><a href="#开发进阶" class="headerlink" title="开发进阶"></a>开发进阶</h2><h2 id="UI组件的使用"><a href="#UI组件的使用" class="headerlink" title="UI组件的使用"></a>UI组件的使用</h2><h2 id="API的使用"><a href="#API的使用" class="headerlink" title="API的使用"></a>API的使用</h2><h2 id="项目实战"><a href="#项目实战" class="headerlink" title="项目实战"></a>项目实战</h2><h2 id="项目部署、上线和维护"><a href="#项目部署、上线和维护" class="headerlink" title="项目部署、上线和维护"></a>项目部署、上线和维护</h2><h2 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h2><h1 id="三、课程特点"><a href="#三、课程特点" class="headerlink" title="三、课程特点"></a>三、课程特点</h1><h2 id="由浅入深"><a href="#由浅入深" class="headerlink" title="由浅入深"></a>由浅入深</h2><h2 id="理论为辅"><a href="#理论为辅" class="headerlink" title="理论为辅"></a>理论为辅</h2><h2 id="实战为主"><a href="#实战为主" class="headerlink" title="实战为主"></a>实战为主</h2><h2 id="授之以渔"><a href="#授之以渔" class="headerlink" title="授之以渔"></a>授之以渔</h2><h1 id="四、课程目标"><a href="#四、课程目标" class="headerlink" title="四、课程目标"></a>四、课程目标</h1><h2 id="从0开始快速入门"><a href="#从0开始快速入门" class="headerlink" title="从0开始快速入门"></a>从0开始快速入门</h2><h2 id="掌握开发实战技巧"><a href="#掌握开发实战技巧" class="headerlink" title="掌握开发实战技巧"></a>掌握开发实战技巧</h2><h2 id="胜任任何微信小程序应用的开发"><a href="#胜任任何微信小程序应用的开发" class="headerlink" title="胜任任何微信小程序应用的开发"></a>胜任任何微信小程序应用的开发</h2>]]></content>
+        <content type="html"><![CDATA[<p>接下来是微信开发工具教程的笔记心得，并没有做过多的美化，后期会做美化，请大家见谅！</p><h1 id="一、微信小程序开发工具"><a href="#一、微信小程序开发工具" class="headerlink" title="一、微信小程序开发工具"></a>一、微信小程序开发工具</h1><h2 id="微信开发账号"><a href="#微信开发账号" class="headerlink" title="微信开发账号"></a>微信开发账号</h2><p>点击下面网址<br><a href="https://mp.weixin.qq.com" target="_blank" rel="noopener">https://mp.weixin.qq.com</a><br><img src="https://raw.githubusercontent.com/pljt/photo/master/weixinzhuce.png" alt="注册" title="微信注册"><br>点击此界面的立即注册，注册自己的账号。</p><h2 id="微信开发者工具"><a href="#微信开发者工具" class="headerlink" title="微信开发者工具"></a>微信开发者工具</h2><p>点击下面网址<br><a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html" target="_blank" rel="noopener">https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html</a><br><img src="https://raw.githubusercontent.com/pljt/photo/master/wxkfgjxz.png" alt="开发工具下载" title="微信注册"><br>在红线部分下载自己系统对应的版本。</p>]]></content>
       
       
       <categories>
@@ -58,11 +71,11 @@
     
     
     <entry>
-      <title>微信小程序教程-第三课-开发准备</title>
-      <link href="/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-san-ke-kai-fa-zhun-bei/"/>
-      <url>/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-san-ke-kai-fa-zhun-bei/</url>
+      <title>微信小程序教程-第一课-概要</title>
+      <link href="/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-yi-ke-gai-yao/"/>
+      <url>/2019/01/03/wei-xin-xiao-cheng-xu-jiao-cheng-di-yi-ke-gai-yao/</url>
       
-        <content type="html"><![CDATA[<p>接下来是微信开发工具教程的笔记心得，并没有做过多的美化，后期会做美化，请大家见谅！</p><h1 id="一、微信小程序开发工具"><a href="#一、微信小程序开发工具" class="headerlink" title="一、微信小程序开发工具"></a>一、微信小程序开发工具</h1><h2 id="微信开发账号"><a href="#微信开发账号" class="headerlink" title="微信开发账号"></a>微信开发账号</h2><p>点击下面网址<br><a href="https://mp.weixin.qq.com" target="_blank" rel="noopener">https://mp.weixin.qq.com</a><br><img src="https://raw.githubusercontent.com/pljt/photo/master/weixinzhuce.png" alt="注册" title="微信注册"><br>点击此界面的立即注册，注册自己的账号。</p><h2 id="微信开发者工具"><a href="#微信开发者工具" class="headerlink" title="微信开发者工具"></a>微信开发者工具</h2><p>点击下面网址<br><a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html" target="_blank" rel="noopener">https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html</a><br><img src="https://raw.githubusercontent.com/pljt/photo/master/wxkfgjxz.png" alt="开发工具下载" title="微信注册"><br>在红线部分下载自己系统对应的版本。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="一、课程名称"><a href="#一、课程名称" class="headerlink" title="一、课程名称"></a>一、课程名称</h1><h2 id="微信小程序从基础到实战"><a href="#微信小程序从基础到实战" class="headerlink" title="微信小程序从基础到实战"></a>微信小程序从基础到实战</h2><h1 id="二、课程安排"><a href="#二、课程安排" class="headerlink" title="二、课程安排"></a>二、课程安排</h1><h2 id="快速入门"><a href="#快速入门" class="headerlink" title="快速入门"></a>快速入门</h2><h2 id="开发进阶"><a href="#开发进阶" class="headerlink" title="开发进阶"></a>开发进阶</h2><h2 id="UI组件的使用"><a href="#UI组件的使用" class="headerlink" title="UI组件的使用"></a>UI组件的使用</h2><h2 id="API的使用"><a href="#API的使用" class="headerlink" title="API的使用"></a>API的使用</h2><h2 id="项目实战"><a href="#项目实战" class="headerlink" title="项目实战"></a>项目实战</h2><h2 id="项目部署、上线和维护"><a href="#项目部署、上线和维护" class="headerlink" title="项目部署、上线和维护"></a>项目部署、上线和维护</h2><h2 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h2><h1 id="三、课程特点"><a href="#三、课程特点" class="headerlink" title="三、课程特点"></a>三、课程特点</h1><h2 id="由浅入深"><a href="#由浅入深" class="headerlink" title="由浅入深"></a>由浅入深</h2><h2 id="理论为辅"><a href="#理论为辅" class="headerlink" title="理论为辅"></a>理论为辅</h2><h2 id="实战为主"><a href="#实战为主" class="headerlink" title="实战为主"></a>实战为主</h2><h2 id="授之以渔"><a href="#授之以渔" class="headerlink" title="授之以渔"></a>授之以渔</h2><h1 id="四、课程目标"><a href="#四、课程目标" class="headerlink" title="四、课程目标"></a>四、课程目标</h1><h2 id="从0开始快速入门"><a href="#从0开始快速入门" class="headerlink" title="从0开始快速入门"></a>从0开始快速入门</h2><h2 id="掌握开发实战技巧"><a href="#掌握开发实战技巧" class="headerlink" title="掌握开发实战技巧"></a>掌握开发实战技巧</h2><h2 id="胜任任何微信小程序应用的开发"><a href="#胜任任何微信小程序应用的开发" class="headerlink" title="胜任任何微信小程序应用的开发"></a>胜任任何微信小程序应用的开发</h2>]]></content>
       
       
       <categories>
@@ -133,19 +146,6 @@
             <tag> Markdown </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2018/12/29/hello-world/"/>
-      <url>/2018/12/29/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
